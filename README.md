@@ -25,3 +25,7 @@ Clone ou baixe o repositório e abra [index.html](index.html) no navegador. Não
 ## Contexto
 
 Exercício de aprendizagem de Git e desenvolvimento web básico.
+
+## Guia do código
+
+Consulte [GUIA_CODIGO.md](GUIA_CODIGO.md) para localizar os módulos, entender as convenções e estudar as alterações.
